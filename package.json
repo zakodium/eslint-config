@@ -2,9 +2,9 @@
   "name": "@zakodium/eslint-config",
   "version": "0.0.1",
   "description": "Various shared ESLint configurations for Zakodium projects",
-  "main": "./configs/main.js",
+  "main": "./configs/base.js",
   "exports": {
-    ".": "./configs/main.js",
+    ".": "./configs/base.js",
     "./react": "./configs/react.js",
     "./typescript": "./configs/typescript.js",
     "./typescript-react": "./configs/typescript-react.js",
