@@ -1,0 +1,38 @@
+{
+  "name": "@zakodium/eslint-config",
+  "version": "0.0.0",
+  "description": "Various shared ESLint configurations for Zakodium projects",
+  "main": "./configs/main.js",
+  "exports": {
+    ".": "./configs/main.js",
+    "./react": "./configs/react.js",
+    "./typescript": "./configs/typescript.js",
+    "./typescript-react": "./configs/typescript-react.js",
+    "./adonis": "./configs/adonis.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakodium/eslint-config.git"
+  },
+  "author": "Michael Zasso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakodium/eslint-config/issues"
+  },
+  "homepage": "https://github.com/zakodium/eslint-config#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint-config-cheminfo": "^4.1.0",
+    "eslint-config-cheminfo-react": "^5.1.0",
+    "eslint-config-cheminfo-typescript": "^6.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.19.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.4",
+    "eslint-plugin-react-hooks": "^4.0.8"
+  }
+}
