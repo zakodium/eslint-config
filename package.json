@@ -2,13 +2,13 @@
   "name": "@zakodium/eslint-config",
   "version": "1.0.0",
   "description": "Various shared ESLint configurations for Zakodium projects",
-  "main": "./configs/base.js",
+  "main": "./base.js",
   "exports": {
-    ".": "./configs/base.js",
-    "./react": "./configs/react.js",
-    "./typescript": "./configs/typescript.js",
-    "./typescript-react": "./configs/typescript-react.js",
-    "./adonis": "./configs/adonis.js"
+    ".": "./base.js",
+    "./react": "./react.js",
+    "./typescript": "./typescript.js",
+    "./typescript-react": "./typescript-react.js",
+    "./adonis": "./adonis.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
