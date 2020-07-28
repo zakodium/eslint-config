@@ -21,6 +21,6 @@ module.exports = {
         pathGroupsExcludedImportTypes: ['builtin'],
       }
     ],
-    '@typescript-eslint/no-parameter-properties': off
+    '@typescript-eslint/no-parameter-properties': 'off',
   }
 };
