@@ -14,7 +14,7 @@ module.exports = {
         'newlines-between': 'always',
         alphabetize: {order: 'asc'},
         pathGroups: [
-          { pattern: '@ioc:*/**', group: 'external', position: 'after'},
+          { pattern: '@ioc:**', group: 'external', position: 'after'},
           {pattern: 'Contracts/**', group: 'internal', position: 'before'},
           {pattern: 'App/**', group: 'internal', position: 'before'},
         ],
