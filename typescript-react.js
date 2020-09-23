@@ -1,5 +1,8 @@
 'use strict';
 
 module.exports = {
-  extends: ['eslint-config-cheminfo-react', 'eslint-config-cheminfo-typescript']
-}
+  extends: [
+    'eslint-config-cheminfo-react',
+    'eslint-config-cheminfo-typescript',
+  ],
+};
