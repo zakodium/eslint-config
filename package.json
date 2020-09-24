@@ -27,7 +27,7 @@
   "dependencies": {
     "eslint-config-cheminfo": "^5.2.0",
     "eslint-config-cheminfo-react": "^6.0.1",
-    "eslint-config-cheminfo-typescript": "^8.0.0"
+    "eslint-config-cheminfo-typescript": "^8.0.2"
   },
   "peerDependencies": {
     "eslint": ">=7.8.0",
