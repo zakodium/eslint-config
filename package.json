@@ -9,6 +9,7 @@
     "./react": "./react.js",
     "./typescript": "./typescript.js",
     "./typescript-react": "./typescript-react.js",
+    "./typescript-react-app": "./typescript-react-app.js",
     "./adonis": "./adonis.js"
   },
   "scripts": {
