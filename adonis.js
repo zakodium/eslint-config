@@ -3,10 +3,8 @@
 module.exports = {
   extends: 'eslint-config-cheminfo-typescript',
   rules: {
-    'no-shadow': 'off',
     'import/no-unresolved': 'off',
     'import/default': 'off',
-    'import/no-cycle': 'off',
     'import/order': [
       'warn',
       {
