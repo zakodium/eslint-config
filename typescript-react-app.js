@@ -5,9 +5,17 @@ module.exports = {
     'eslint-config-cheminfo-react',
     'eslint-config-cheminfo-typescript',
   ],
+  overrides: [
+    {
+      files: ['*.{ts,tsx}'],
+      rules: {
+        '@typescript-eslint/no-unused-vars': 'warn',
+      },
+    },
+  ],
   rules: {
-    '@typescript-eslint/no-unused-vars': 'warn',
     'no-console': 'warn',
     'no-debugger': 'warn',
+    'no-unused-vars': 'warn',
   },
 };
