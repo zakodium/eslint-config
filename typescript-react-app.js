@@ -9,7 +9,11 @@ module.exports = {
     {
       files: ['*.{ts,tsx}'],
       rules: {
-        '@typescript-eslint/no-unused-vars': 'warn',
+        'no-unused-vars': 'off',
+        '@typescript-eslint/no-unused-vars': [
+          'error',
+          { vars: 'all', args: 'after-used', ignoreRestSiblings: true },
+        ],
       },
     },
   ],
