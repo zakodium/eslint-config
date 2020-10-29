@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.4](https://www.github.com/zakodium/eslint-config/compare/v2.1.3...v2.1.4) (2020-10-29)
+
+
+### Bug Fixes
+
+* **cra:** warn for typescript-eslint/no-unused-vars ([7fe1d68](https://www.github.com/zakodium/eslint-config/commit/7fe1d68ebd15d10a4e16d54b4296f1bb6e2f6bb6))
+
 ### [2.1.3](https://www.github.com/zakodium/eslint-config/compare/v2.1.2...v2.1.3) (2020-10-29)
 
 
