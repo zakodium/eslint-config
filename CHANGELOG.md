@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.3](https://www.github.com/zakodium/eslint-config/compare/v2.1.2...v2.1.3) (2020-10-29)
+
+
+### Bug Fixes
+
+* **cra:** disable no-unused-vars in TypeScript files ([d13a43b](https://www.github.com/zakodium/eslint-config/commit/d13a43b2d308000d5246d4ef3583dbc097f07f60))
+
 ### [2.1.2](https://www.github.com/zakodium/eslint-config/compare/v2.1.1...v2.1.2) (2020-10-26)
 
 
