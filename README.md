@@ -23,5 +23,5 @@ extends: '@zakodium/eslint-config/adonis'
 - `'@zakodium/eslint-config/typescript'`: Equivalent to extending [eslint-config-cheminfo-typescript](https://github.com/cheminfo/eslint-config-cheminfo-typescript)
 - `'@zakodium/eslint-config/react'`: Equivalent to extending [eslint-config-cheminfo-react](https://github.com/cheminfo/eslint-config-cheminfo-react)
 - `'@zakodium/eslint-config/typescript-react'`: Equivalent to extending both [eslint-config-cheminfo-typescript](https://github.com/cheminfo/eslint-config-cheminfo-typescript) and [eslint-config-cheminfo-react](https://github.com/cheminfo/eslint-config-cheminfo-react)
-- `'@zakodium/eslint-config/typescript-react-app'`: For Create React App projects. Equivalent to `@zakodium/eslint-config/typescript-react` with some rules downgraded as warnings to avoid compilation errors during development.
+- `'@zakodium/eslint-config/typescript-react-app'`: For Create React App projects. Equivalent to `'@zakodium/eslint-config/typescript-react'` with some rules downgraded as warnings to avoid compilation errors during development.
 - `'@zakodium/eslint-config/adonis'`: Extends [eslint-config-cheminfo-typescript](https://github.com/cheminfo/eslint-config-cheminfo-typescript) with some adaptations for AdonisJS projects.
