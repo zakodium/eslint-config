@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.1](https://www.github.com/zakodium/eslint-config/compare/v2.2.0...v2.2.1) (2020-12-03)
+
+
+### Bug Fixes
+
+* disable no-floating-promises in adonis config ([3456343](https://www.github.com/zakodium/eslint-config/commit/345634346ed1f27d03a62b20b5a937b79bebaf49))
+
 ## [2.2.0](https://www.github.com/zakodium/eslint-config/compare/v2.1.4...v2.2.0) (2020-11-19)
 
 
