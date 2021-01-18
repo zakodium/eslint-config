@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.2](https://www.github.com/zakodium/eslint-config/compare/v2.2.1...v2.2.2) (2021-01-18)
+
+
+### Bug Fixes
+
+* downgrade react/no-unused-prop-types to warning ([fcabbc9](https://www.github.com/zakodium/eslint-config/commit/fcabbc92508f59a9788f9dc1d8d77963e682acaf))
+
 ### [2.2.1](https://www.github.com/zakodium/eslint-config/compare/v2.2.0...v2.2.1) (2020-12-03)
 
 
