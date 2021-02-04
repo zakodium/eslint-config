@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://www.github.com/zakodium/eslint-config/compare/v2.2.2...v3.0.0) (2021-02-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove react-app specific configs
+
+### Features
+
+* remove react-app specific configs ([3b62b4d](https://www.github.com/zakodium/eslint-config/commit/3b62b4d12c1376a46f0a0e2c0f1e92f1a134c733))
+
 ### [2.2.2](https://www.github.com/zakodium/eslint-config/compare/v2.2.1...v2.2.2) (2021-01-18)
 
 
