@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.1](https://www.github.com/zakodium/eslint-config/compare/v3.0.0...v3.0.1) (2021-02-23)
+
+
+### Bug Fixes
+
+* update dependencies ([9bfb9e7](https://www.github.com/zakodium/eslint-config/commit/9bfb9e748b4b9d9a60d33d6a278780f150e9b8a0))
+
 ## [3.0.0](https://www.github.com/zakodium/eslint-config/compare/v2.2.2...v3.0.0) (2021-02-04)
 
 
