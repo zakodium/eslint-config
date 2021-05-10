@@ -5,7 +5,7 @@ Various shared ESLint configurations for Zakodium projects
 ## Installation
 
 ```console
-npm install -D @zakodium/eslint-config eslint prettier
+npm install -D @zakodium/eslint-config eslint
 ```
 
 ## Configuration
