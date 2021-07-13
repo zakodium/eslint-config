@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.3](https://www.github.com/zakodium/eslint-config/compare/v3.0.2...v3.0.3) (2021-07-13)
+
+
+### Bug Fixes
+
+* **adonis:** disable explicit-member-accessibility rule ([#12](https://www.github.com/zakodium/eslint-config/issues/12)) ([09c101c](https://www.github.com/zakodium/eslint-config/commit/09c101cd0f5cdbff5496649b8b85963fb0f8f9ac))
+
 ### [3.0.2](https://www.github.com/zakodium/eslint-config/compare/v3.0.1...v3.0.2) (2021-05-10)
 
 
