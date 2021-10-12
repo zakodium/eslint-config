@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://www.github.com/zakodium/eslint-config/compare/v3.0.3...v4.0.0) (2021-10-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* update parent configs
+
+### Bug Fixes
+
+* update parent configs ([4d8ac7e](https://www.github.com/zakodium/eslint-config/commit/4d8ac7e35678c44e0df4edc796f89e5c099052eb))
+
 ### [3.0.3](https://www.github.com/zakodium/eslint-config/compare/v3.0.2...v3.0.3) (2021-07-13)
 
 

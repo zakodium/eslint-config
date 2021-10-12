@@ -1,6 +1,6 @@
 {
   "name": "@zakodium/eslint-config",
-  "version": "3.0.3",
+  "version": "4.0.0",
   "description": "Various shared ESLint configurations for Zakodium projects",
   "main": "./base.js",
   "exports": {
