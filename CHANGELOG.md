@@ -1,5 +1,12 @@
 # Changelog
 
+### [4.0.1](https://www.github.com/zakodium/eslint-config/compare/v4.0.0...v4.0.1) (2021-10-12)
+
+
+### Bug Fixes
+
+* define all peer dependencies ([b75458c](https://www.github.com/zakodium/eslint-config/commit/b75458c2f278088bdfe1ff42e895b5a9d5ffbe3c))
+
 ## [4.0.0](https://www.github.com/zakodium/eslint-config/compare/v3.0.3...v4.0.0) (2021-10-12)
 
 
