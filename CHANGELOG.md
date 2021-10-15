@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.0.1](https://www.github.com/zakodium/eslint-config/compare/v5.0.0...v5.0.1) (2021-10-15)
+
+
+### Bug Fixes
+
+* update dependencies ([ae90789](https://www.github.com/zakodium/eslint-config/commit/ae907893262cf679316226d67f4e9f42e11b3c49))
+
 ## [5.0.0](https://www.github.com/zakodium/eslint-config/compare/v4.0.1...v5.0.0) (2021-10-15)
 
 
