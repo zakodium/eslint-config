@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/zakodium/eslint-config#readme",
   "dependencies": {
-    "eslint-config-cheminfo": "^7.0.0",
-    "eslint-config-cheminfo-react": "^8.0.0",
-    "eslint-config-cheminfo-typescript": "^10.0.0"
+    "eslint-config-cheminfo": "^7.1.1",
+    "eslint-config-cheminfo-react": "^8.0.1",
+    "eslint-config-cheminfo-typescript": "^10.1.1"
   },
   "peerDependencies": {
     "eslint": "^8.0.1"
