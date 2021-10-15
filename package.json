@@ -25,22 +25,15 @@
   },
   "homepage": "https://github.com/zakodium/eslint-config#readme",
   "dependencies": {
-    "eslint-config-cheminfo": "^6.0.0",
-    "eslint-config-cheminfo-react": "^7.0.0",
-    "eslint-config-cheminfo-typescript": "^9.0.0"
+    "eslint-config-cheminfo": "^7.0.0",
+    "eslint-config-cheminfo-react": "^8.0.0",
+    "eslint-config-cheminfo-typescript": "^10.0.0"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": ">=5.0.0",
-    "@typescript-eslint/parser": ">=5.0.0",
-    "eslint": ">=7.8.0",
-    "eslint-plugin-import": ">=2.25.1",
-    "eslint-plugin-jest": ">=25.0.5",
-    "eslint-plugin-react": ">=7.26.1",
-    "eslint-plugin-react-hooks": ">=4.2.0",
-    "typescript": ">=4.0.0"
+    "eslint": "^8.0.1"
   },
   "devDependencies": {
-    "eslint": "7.8.0",
+    "eslint": "8.0.1",
     "prettier": "^2.4.1"
   }
 }
