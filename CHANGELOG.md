@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.0](https://www.github.com/zakodium/eslint-config/compare/v5.0.1...v5.1.0) (2021-11-15)
+
+
+### Features
+
+* add adonis-base config ([6924e40](https://www.github.com/zakodium/eslint-config/commit/6924e406501968eb4220a2a1a2ab1292d381352a))
+
 ### [5.0.1](https://www.github.com/zakodium/eslint-config/compare/v5.0.0...v5.0.1) (2021-10-15)
 
 
