@@ -9,7 +9,8 @@
     "./react": "./react.js",
     "./typescript": "./typescript.js",
     "./typescript-react": "./typescript-react.js",
-    "./adonis": "./adonis.js"
+    "./adonis": "./adonis.js",
+    "./adonis-base": "./adonis-base.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
