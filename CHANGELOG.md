@@ -1,5 +1,12 @@
 # Changelog
 
+### [5.1.1](https://www.github.com/zakodium/eslint-config/compare/v5.1.0...v5.1.1) (2022-03-08)
+
+
+### Bug Fixes
+
+* correctly extend base configs in typescript-react ([c211f27](https://www.github.com/zakodium/eslint-config/commit/c211f27e44236af6db280789e99ba22c99a8f77f))
+
 ## [5.1.0](https://www.github.com/zakodium/eslint-config/compare/v5.0.1...v5.1.0) (2021-11-15)
 
 
