@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  extends: 'eslint-config-cheminfo-typescript',
+  extends: 'cheminfo-typescript',
 };

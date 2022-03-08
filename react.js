@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  extends: 'eslint-config-cheminfo-react',
+  extends: 'cheminfo-react',
 };
