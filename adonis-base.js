@@ -29,8 +29,6 @@ module.exports = {
         pathGroupsExcludedImportTypes: ['builtin'],
       },
     ],
-    '@typescript-eslint/explicit-member-accessibility': 'off',
     '@typescript-eslint/no-floating-promises': 'off',
-    '@typescript-eslint/no-parameter-properties': 'off',
   },
 };
