@@ -1,5 +1,16 @@
 # Changelog
 
+## [6.0.0](https://github.com/zakodium/eslint-config/compare/v5.1.1...v6.0.0) (2022-06-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* update dependencies
+
+### Features
+
+* update dependencies ([1a989e9](https://github.com/zakodium/eslint-config/commit/1a989e9a7624d5872a2720201e49817326d64d21))
+
 ### [5.1.1](https://www.github.com/zakodium/eslint-config/compare/v5.1.0...v5.1.1) (2022-03-08)
 
 
