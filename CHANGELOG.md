@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.0.0](https://github.com/zakodium/eslint-config/compare/v6.0.0...v7.0.0) (2022-11-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* The package was renamed to `eslint-config-zakodium` and the exported configs have been simplified.
+
+### Code Refactoring
+
+* rename package and simplify config ([9731ebb](https://github.com/zakodium/eslint-config/commit/9731ebbbc5b755783ac893caae23d96a6f2dc588))
+
 ## [6.0.0](https://github.com/zakodium/eslint-config/compare/v5.1.1...v6.0.0) (2022-06-02)
 
 
