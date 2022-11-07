@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  extends: 'cheminfo-react',
+  extends: 'cheminfo/base',
 };

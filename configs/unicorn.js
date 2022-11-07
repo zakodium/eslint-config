@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  extends: 'cheminfo-typescript',
+  extends: 'cheminfo/unicorn',
 };
