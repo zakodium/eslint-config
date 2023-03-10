@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.1.0](https://github.com/zakodium/eslint-config/compare/v7.0.0...v7.1.0) (2023-03-10)
+
+
+### Features
+
+* update base configs ([ee1ada2](https://github.com/zakodium/eslint-config/commit/ee1ada274e68cf41fd7c38aeaeda45f5ad1a29e2))
+
 ## [7.0.0](https://github.com/zakodium/eslint-config/compare/v6.0.0...v7.0.0) (2022-11-07)
 
 
