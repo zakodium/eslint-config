@@ -29,6 +29,5 @@ module.exports = {
         pathGroupsExcludedImportTypes: ['builtin'],
       },
     ],
-    '@typescript-eslint/no-floating-promises': 'off',
   },
 };
