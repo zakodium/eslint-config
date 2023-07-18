@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.0.2](https://github.com/zakodium/eslint-config/compare/v8.0.1...v8.0.2) (2023-07-18)
+
+
+### Bug Fixes
+
+* update typescript config ([e5ef82a](https://github.com/zakodium/eslint-config/commit/e5ef82aef1c1c9f00f775d0a1a18a719782a2367))
+
 ## [8.0.1](https://github.com/zakodium/eslint-config/compare/v8.0.0...v8.0.1) (2023-07-18)
 
 
