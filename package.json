@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zakodium",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Various shared ESLint configurations for Zakodium projects",
   "exports": {
     "./adonis-v5": "./configs/adonis-v5.js",

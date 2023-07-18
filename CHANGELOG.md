@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.0.1](https://github.com/zakodium/eslint-config/compare/v8.0.0...v8.0.1) (2023-07-18)
+
+
+### Bug Fixes
+
+* update configs ([05c551f](https://github.com/zakodium/eslint-config/commit/05c551ff80aa5eea3c86bcf1123a673c6e9d24b2))
+
 ## [8.0.0](https://github.com/zakodium/eslint-config/compare/v7.2.0...v8.0.0) (2023-07-18)
 
 
