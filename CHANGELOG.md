@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.0.1](https://github.com/zakodium/eslint-config/compare/v9.0.0...v9.0.1) (2024-03-21)
+
+
+### Bug Fixes
+
+* update peer dependency on ESLint ([01731a9](https://github.com/zakodium/eslint-config/commit/01731a93e0079ec99e65139897d5af4afb399299))
+
 ## [9.0.0](https://github.com/zakodium/eslint-config/compare/v8.1.0...v9.0.0) (2024-03-21)
 
 
