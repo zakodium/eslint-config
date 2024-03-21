@@ -1,5 +1,16 @@
 # Changelog
 
+## [9.0.0](https://github.com/zakodium/eslint-config/compare/v8.1.0...v9.0.0) (2024-03-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* update React config with strict restricted globals
+
+### Bug Fixes
+
+* update React config with strict restricted globals ([918f2d2](https://github.com/zakodium/eslint-config/commit/918f2d2a9298713ab811b8bbe913107e2cd9fd53))
+
 ## [8.1.0](https://github.com/zakodium/eslint-config/compare/v8.0.2...v8.1.0) (2023-12-05)
 
 
