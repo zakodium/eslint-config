@@ -32,10 +32,10 @@
     "eslint-config-cheminfo-typescript": "^12.1.0"
   },
   "peerDependencies": {
-    "eslint": "^8.55.0"
+    "eslint": "^8.56.0"
   },
   "devDependencies": {
-    "eslint": "8.55.0",
+    "eslint": "8.56.0",
     "prettier": "^3.1.0"
   }
 }
