@@ -1,5 +1,16 @@
 # Changelog
 
+## [10.0.0](https://github.com/zakodium/eslint-config/compare/v9.0.1...v10.0.0) (2024-06-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* update dependencies
+
+### Features
+
+* update dependencies ([c15d247](https://github.com/zakodium/eslint-config/commit/c15d24749fc2070c0c832070633c3acb831f1178))
+
 ## [9.0.1](https://github.com/zakodium/eslint-config/compare/v9.0.0...v9.0.1) (2024-03-21)
 
 
