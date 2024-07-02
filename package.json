@@ -2,6 +2,7 @@
   "name": "eslint-config-zakodium",
   "version": "10.0.0",
   "description": "Various shared ESLint configurations for Zakodium projects",
+  "type": "module",
   "exports": {
     "./adonis-v5": "./configs/adonis-v5.js",
     "./js": "./configs/js.js",
@@ -27,9 +28,9 @@
   },
   "homepage": "https://github.com/zakodium/eslint-config#readme",
   "dependencies": {
-    "eslint-config-cheminfo": "^10.0.0",
-    "eslint-config-cheminfo-react": "^12.0.0",
-    "eslint-config-cheminfo-typescript": "^13.0.0"
+    "eslint-config-cheminfo": "^11.0.3",
+    "eslint-config-cheminfo-react": "^13.0.0",
+    "eslint-config-cheminfo-typescript": "^14.0.0"
   },
   "peerDependencies": {
     "eslint": "^8.57.0"

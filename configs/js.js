@@ -1,5 +1,3 @@
-'use strict';
+import { default as js } from 'eslint-config-cheminfo/base';
 
-module.exports = {
-  extends: 'cheminfo/base',
-};
+export default js;

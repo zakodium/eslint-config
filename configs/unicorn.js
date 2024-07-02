@@ -1,5 +1,3 @@
-'use strict';
+import { default as unicorn } from 'eslint-config-cheminfo/unicorn';
 
-module.exports = {
-  extends: 'cheminfo/unicorn',
-};
+export default unicorn;

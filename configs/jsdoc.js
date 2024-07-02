@@ -1,5 +1,3 @@
-'use strict';
+import { default as jsdoc } from 'eslint-config-cheminfo/jsdoc';
 
-module.exports = {
-  extends: 'cheminfo/jsdoc',
-};
+export default jsdoc;

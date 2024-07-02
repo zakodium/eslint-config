@@ -1,5 +1,3 @@
-'use strict';
+import { default as ts } from 'eslint-config-cheminfo-typescript/base';
 
-module.exports = {
-  extends: 'cheminfo-typescript/base',
-};
+export default ts;
