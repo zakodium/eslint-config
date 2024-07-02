@@ -1,5 +1,16 @@
 # Changelog
 
+## [11.0.0](https://github.com/zakodium/eslint-config/compare/v10.0.0...v11.0.0) (2024-07-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate to ESLint flat config
+
+### Features
+
+* migrate to ESLint flat config ([5241f69](https://github.com/zakodium/eslint-config/commit/5241f690b97144dde480b803d778d9b2c9f4bde7))
+
 ## [10.0.0](https://github.com/zakodium/eslint-config/compare/v9.0.1...v10.0.0) (2024-06-29)
 
 
