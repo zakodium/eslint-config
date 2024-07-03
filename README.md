@@ -20,8 +20,28 @@ import adonisV5 from 'eslint-config-zakodium/adonis-v5';
 export default [...ts, ...adonisV5];
 ```
 
+### Globals
+
+This package re-exports [`globals`](https://github.com/sindresorhus/globals) for convenience:
+
+```js
+import { globals } from 'eslint-config-zakodium';
+
+export default [
+  {
+    languageOptions: {
+      globals: {
+        ...globals.node,
+      },
+    },
+  },
+];
+```
+
+### Monorepo
+
 In a monorepo, you may want to apply different configs for different paths. We re-export the config helper from
-`typescript-eslint` for this purpose. Example:
+`typescript-eslint` for this purpose:
 
 ```js
 import { config } from 'eslint-config-zakodium';

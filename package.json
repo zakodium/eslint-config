@@ -33,6 +33,7 @@
     "eslint-config-cheminfo": "^11.0.3",
     "eslint-config-cheminfo-react": "^13.0.0",
     "eslint-config-cheminfo-typescript": "^14.0.0",
+    "globals": "^15.8.0",
     "typescript-eslint": "^7.15.0"
   },
   "peerDependencies": {
