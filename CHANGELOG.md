@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.1.0](https://github.com/zakodium/eslint-config/compare/v11.0.0...v11.1.0) (2024-07-03)
+
+
+### Features
+
+* export config extension helper ([b5b03c6](https://github.com/zakodium/eslint-config/commit/b5b03c6b5aa03a9d29602d5cee781b0290a8c950))
+
 ## [11.0.0](https://github.com/zakodium/eslint-config/compare/v10.0.0...v11.0.0) (2024-07-02)
 
 
