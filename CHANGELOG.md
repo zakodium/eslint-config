@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.2.0](https://github.com/zakodium/eslint-config/compare/v11.1.1...v11.2.0) (2024-07-03)
+
+
+### Features
+
+* re-export `globals` ([279f65d](https://github.com/zakodium/eslint-config/commit/279f65d9a9b6fe56b4f3baeecf72de0c564c46c4))
+
 ## [11.1.1](https://github.com/zakodium/eslint-config/compare/v11.1.0...v11.1.1) (2024-07-03)
 
 
