@@ -20,6 +20,35 @@ import adonisV5 from 'eslint-config-zakodium/adonis-v5';
 export default [...ts, ...adonisV5];
 ```
 
+In a monorepo, you may want to apply different configs for different paths. We re-export the config helper from
+`typescript-eslint` for this purpose. Example:
+
+```js
+import { config } from 'eslint-config-zakodium';
+import ts from 'eslint-config-zakodium/ts';
+import adonisV5 from 'eslint-config-zakodium/adonis-v5';
+import react from 'eslint-config-zakodium/react';
+
+export default config(
+  {
+    // Global ignore patterns.
+    ignores: ['**/build'],
+  },
+  // Apply TypeScript config on the whole project.
+  ...ts,
+  {
+    // Apply Adonis v5 config only to the api.
+    files: ['api/**'],
+    extends: [...adonisV5],
+  },
+  {
+    // Apply React config only to the frontend.
+    files: ['front/**'],
+    extends: [...react],
+  },
+);
+```
+
 ## Available configs
 
 - `zakodium/js`: Same as [cheminfo/base](https://github.com/cheminfo/eslint-config/blob/main/base.js).
