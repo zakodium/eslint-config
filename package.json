@@ -4,6 +4,7 @@
   "description": "Various shared ESLint configurations for Zakodium projects",
   "type": "module",
   "exports": {
+    ".": "./index.js",
     "./adonis-v5": "./configs/adonis-v5.js",
     "./js": "./configs/js.js",
     "./jsdoc": "./configs/jsdoc.js",
