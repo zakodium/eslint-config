@@ -1,5 +1,16 @@
 # Changelog
 
+## [12.0.0](https://github.com/zakodium/eslint-config/compare/v11.2.0...v12.0.0) (2024-08-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* update typescript-eslint to v8
+
+### Features
+
+* update typescript-eslint to v8 ([52a75a1](https://github.com/zakodium/eslint-config/commit/52a75a14ad70278a6d4e584788f8510d9f8e6dae))
+
 ## [11.2.0](https://github.com/zakodium/eslint-config/compare/v11.1.1...v11.2.0) (2024-07-03)
 
 
