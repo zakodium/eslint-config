@@ -1,5 +1,16 @@
 # Changelog
 
+## [13.0.0](https://github.com/zakodium/eslint-config/compare/v12.0.0...v13.0.0) (2024-10-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* update dependencies and support ESLint 9
+
+### Miscellaneous Chores
+
+* update dependencies and support ESLint 9 ([545ba81](https://github.com/zakodium/eslint-config/commit/545ba8176a0e75e449e0c99b54bf56278f8d501e))
+
 ## [12.0.0](https://github.com/zakodium/eslint-config/compare/v11.2.0...v12.0.0) (2024-08-01)
 
 
