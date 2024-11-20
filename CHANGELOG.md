@@ -1,5 +1,16 @@
 # Changelog
 
+## [14.0.0](https://github.com/zakodium/eslint-config/compare/v13.0.0...v14.0.0) (2024-11-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* update base configs and require ESLint >=9.15.0
+
+### Features
+
+* update base configs and require ESLint &gt;=9.15.0 ([9fba0d4](https://github.com/zakodium/eslint-config/commit/9fba0d40fa07a227b8d7d2ae1566a5f77fe7038f))
+
 ## [13.0.0](https://github.com/zakodium/eslint-config/compare/v12.0.0...v13.0.0) (2024-10-07)
 
 
