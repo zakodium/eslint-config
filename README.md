@@ -14,10 +14,11 @@ Create a file named `eslint.config.mjs` at the root of the project and extend th
 config that you want to use. Example:
 
 ```js
+import { defineConfig } from 'eslint/config';
 import ts from 'eslint-config-zakodium/ts';
 import adonisV5 from 'eslint-config-zakodium/adonis-v5';
 
-export default [...ts, ...adonisV5];
+export default defineConfig(ts, adonisV5);
 ```
 
 ### Globals
@@ -25,46 +26,42 @@ export default [...ts, ...adonisV5];
 This package re-exports [`globals`](https://github.com/sindresorhus/globals) for convenience:
 
 ```js
+import { defineConfig } from 'eslint/config';
 import { globals } from 'eslint-config-zakodium';
 
-export default [
-  {
-    languageOptions: {
-      globals: {
-        ...globals.node,
-      },
+export default defineConfig({
+  languageOptions: {
+    globals: {
+      ...globals.node,
     },
   },
-];
+});
 ```
 
 ### Monorepo
 
-In a monorepo, you may want to apply different configs for different paths. We re-export the config helper from
-`typescript-eslint` for this purpose:
+In a monorepo, you may want to apply different configs for different paths. The `defineConfig` ESLint helper allows to do that with `extends`:
 
 ```js
-import { config } from 'eslint-config-zakodium';
+import { defineConfig, globalIgnores } from 'eslint/config';
 import ts from 'eslint-config-zakodium/ts';
 import adonisV5 from 'eslint-config-zakodium/adonis-v5';
 import react from 'eslint-config-zakodium/react';
 
-export default config(
-  {
-    // Global ignore patterns.
-    ignores: ['**/build'],
-  },
+export default defineConfig(
+  // Global ignore patterns.
+  globalIgnores(['**/build']),
   // Apply TypeScript config on the whole project.
-  ...ts,
+  ts,
   {
     // Apply Adonis v5 config only to the api.
     files: ['api/**'],
-    extends: [...adonisV5],
+    extends: [adonisV5],
   },
   {
     // Apply React config only to the frontend.
     files: ['front/**'],
-    extends: [...react],
+    extends: [react],
   },
 );
 ```

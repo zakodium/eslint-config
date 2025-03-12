@@ -1,4 +1,6 @@
-export default [
+import { defineConfig } from 'eslint/config';
+
+export default defineConfig([
   {
     rules: {
       'import/no-unresolved': 'off',
@@ -30,4 +32,4 @@ export default [
       ],
     },
   },
-];
+]);
