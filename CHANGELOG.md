@@ -1,5 +1,16 @@
 # Changelog
 
+## [15.0.0](https://github.com/zakodium/eslint-config/compare/v14.0.0...v15.0.0) (2025-03-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* update ESLint to v9.22.0 and use config helpers
+
+### Features
+
+* update ESLint to v9.22.0 and use config helpers ([cbfe1be](https://github.com/zakodium/eslint-config/commit/cbfe1be538a23c70a93f845fd78047a7892f2d8e))
+
 ## [14.0.0](https://github.com/zakodium/eslint-config/compare/v13.0.0...v14.0.0) (2024-11-20)
 
 
