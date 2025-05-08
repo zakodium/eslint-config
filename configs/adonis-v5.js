@@ -2,6 +2,7 @@ import { defineConfig } from 'eslint/config';
 
 export default defineConfig([
   {
+    name: 'zakodium/adonis-v5',
     rules: {
       'import/no-unresolved': 'off',
       'import/default': 'off',
