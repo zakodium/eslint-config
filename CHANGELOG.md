@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.0.1](https://github.com/zakodium/eslint-config/compare/v15.0.0...v15.0.1) (2025-05-08)
+
+
+### Bug Fixes
+
+* add name to config object and update dependencies ([e512e56](https://github.com/zakodium/eslint-config/commit/e512e56747edf56d864233b83b9c125f106b7717))
+
 ## [15.0.0](https://github.com/zakodium/eslint-config/compare/v14.0.0...v15.0.0) (2025-03-12)
 
 
