@@ -33,6 +33,7 @@
     "eslint-config-cheminfo": "^14.1.1",
     "eslint-config-cheminfo-react": "^16.0.1",
     "eslint-config-cheminfo-typescript": "^18.0.1",
+    "eslint-plugin-better-tailwindcss": "^3.4.1",
     "globals": "^16.1.0"
   },
   "peerDependencies": {
