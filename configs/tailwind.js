@@ -16,6 +16,7 @@ export default function tailwind(entryPoint = 'tailwind.css') {
         'better-tailwindcss': eslintPluginBetterTailwindcss,
       },
       rules: {
+        // https://github.com/schoero/eslint-plugin-better-tailwindcss#rules
         'better-tailwindcss/no-unnecessary-whitespace': 'warn',
         'better-tailwindcss/no-duplicate-classes': 'error',
         'better-tailwindcss/no-unregistered-classes': 'error',
