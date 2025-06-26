@@ -9,6 +9,7 @@
     "./js": "./configs/js.js",
     "./jsdoc": "./configs/jsdoc.js",
     "./react": "./configs/react.js",
+    "./tailwind": "./configs/tailwind.js",
     "./ts": "./configs/ts.js",
     "./unicorn": "./configs/unicorn.js"
   },
