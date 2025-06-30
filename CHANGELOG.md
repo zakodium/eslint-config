@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.1.0](https://github.com/zakodium/eslint-config/compare/v15.0.1...v15.1.0) (2025-06-30)
+
+
+### Features
+
+* add tailwind config using better-tailwindcss ([#44](https://github.com/zakodium/eslint-config/issues/44)) ([ad7f64e](https://github.com/zakodium/eslint-config/commit/ad7f64ebdff3eb368ab21968dfabec79d7d8d19d))
+
 ## [15.0.1](https://github.com/zakodium/eslint-config/compare/v15.0.0...v15.0.1) (2025-05-08)
 
 
