@@ -74,4 +74,4 @@ export default defineConfig(
 - `zakodium/unicorn`: Same as [cheminfo/unicorn](https://github.com/cheminfo/eslint-config/blob/main/unicorn.js).
 - `zakodium/react`: Same as [cheminfo-react/base](https://github.com/cheminfo/eslint-config-cheminfo-react/blob/main/base.js)
 - `zakodium/adonis-v5`: Adapts some rules for AdonisJS 5 projects. Should be combined with `zakodium/ts`.
-- `zakodium/tailwind`: Adapts ESLint rules for Tailwind CSS projects. Should only be used with Tailwind CSS v4.
+- `zakodium/tailwind`: Class rules for Tailwind CSS projects. Should only be used with Tailwind CSS v4.
