@@ -1,5 +1,16 @@
 # Changelog
 
+## [16.0.0](https://github.com/zakodium/eslint-config/compare/v15.1.0...v16.0.0) (2025-07-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* update base configs, add vitest and vitest-ts configs ([#46](https://github.com/zakodium/eslint-config/issues/46))
+
+### Features
+
+* update base configs, add vitest and vitest-ts configs ([#46](https://github.com/zakodium/eslint-config/issues/46)) ([f91593b](https://github.com/zakodium/eslint-config/commit/f91593b19c5291a80e9426918915723848905373))
+
 ## [15.1.0](https://github.com/zakodium/eslint-config/compare/v15.0.1...v15.1.0) (2025-06-30)
 
 
