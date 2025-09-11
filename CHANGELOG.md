@@ -1,5 +1,16 @@
 # Changelog
 
+## [17.0.0](https://github.com/zakodium/eslint-config/compare/v16.0.0...v17.0.0) (2025-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update base configs ([#48](https://github.com/zakodium/eslint-config/issues/48))
+
+### Features
+
+* update base configs ([#48](https://github.com/zakodium/eslint-config/issues/48)) ([96abaa6](https://github.com/zakodium/eslint-config/commit/96abaa65ffd2c7389bdf66397e3b637b188bf4cf))
+
 ## [16.0.0](https://github.com/zakodium/eslint-config/compare/v15.1.0...v16.0.0) (2025-07-08)
 
 
