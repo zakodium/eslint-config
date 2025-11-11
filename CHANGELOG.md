@@ -1,5 +1,16 @@
 # Changelog
 
+## [18.0.0](https://github.com/zakodium/eslint-config/compare/v17.0.0...v18.0.0) (2025-11-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update plugins and ESLint peer dependency ([#50](https://github.com/zakodium/eslint-config/issues/50))
+
+### Features
+
+* update plugins and ESLint peer dependency ([#50](https://github.com/zakodium/eslint-config/issues/50)) ([ebc11f3](https://github.com/zakodium/eslint-config/commit/ebc11f3c8f522f4e8049d84e563df38483db1bfc))
+
 ## [17.0.0](https://github.com/zakodium/eslint-config/compare/v16.0.0...v17.0.0) (2025-09-11)
 
 
