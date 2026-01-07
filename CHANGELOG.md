@@ -1,5 +1,16 @@
 # Changelog
 
+## [19.0.0](https://github.com/zakodium/eslint-config/compare/v18.0.0...v19.0.0) (2026-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* **adonis-v5:** sync import/order config with cheminfo base config ([#52](https://github.com/zakodium/eslint-config/issues/52))
+
+### Bug Fixes
+
+* **adonis-v5:** sync import/order config with cheminfo base config ([#52](https://github.com/zakodium/eslint-config/issues/52)) ([35f0ba6](https://github.com/zakodium/eslint-config/commit/35f0ba616eeb0f9cae2b13ce7b44d627ef355a55))
+
 ## [18.0.0](https://github.com/zakodium/eslint-config/compare/v17.0.0...v18.0.0) (2025-11-11)
 
 
