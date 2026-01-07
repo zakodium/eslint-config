@@ -7,8 +7,9 @@ export default defineConfig([
       'import/no-unresolved': 'off',
       'import/default': 'off',
       'import/order': [
-        'warn',
+        'error',
         {
+          named: true,
           groups: [
             'builtin',
             'external',
@@ -18,7 +19,10 @@ export default defineConfig([
             'index',
           ],
           'newlines-between': 'always',
-          alphabetize: { order: 'asc' },
+          alphabetize: {
+            order: 'asc',
+            orderImportKind: 'asc',
+          },
           pathGroups: [
             {
               pattern: '{@ioc:*,@ioc:*/**}',
