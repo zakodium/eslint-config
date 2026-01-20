@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.1.0](https://github.com/zakodium/eslint-config/compare/v19.0.0...v19.1.0) (2026-01-20)
+
+
+### Features
+
+* update dependencies ([#54](https://github.com/zakodium/eslint-config/issues/54)) ([5c5719a](https://github.com/zakodium/eslint-config/commit/5c5719ae5f2717bd69cb9b00935cc8f3beb7a378))
+
 ## [19.0.0](https://github.com/zakodium/eslint-config/compare/v18.0.0...v19.0.0) (2026-01-07)
 
 

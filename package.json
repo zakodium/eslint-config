@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zakodium",
-  "version": "19.0.0",
+  "version": "19.1.0",
   "description": "Various shared ESLint configurations for Zakodium projects",
   "type": "module",
   "exports": {
