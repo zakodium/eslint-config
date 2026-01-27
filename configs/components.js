@@ -8,10 +8,13 @@ export default defineConfig({
         patterns: [
           {
             group: [
-              '**/tailwind-ui/**/symbols.ts',
-              '**/tailwind_ui/**/symbols.ts',
+              '**/tailwind-ui/**',
+              '**/tailwind_ui/**',
+              '!**/tailwind-ui/index.ts',
+              '!**/tailwind_ui/index.ts',
             ],
-            message: 'Do not import Symbols from components',
+            message:
+              'Direct imports are not allowed. Please import from tailwind-ui/index.ts or tailwind_ui/index.ts',
           },
         ],
       },
