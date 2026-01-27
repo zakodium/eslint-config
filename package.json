@@ -13,7 +13,8 @@
     "./ts": "./configs/ts.js",
     "./unicorn": "./configs/unicorn.js",
     "./vitest": "./configs/vitest.js",
-    "./vitest-ts": "./configs/vitest-ts.js"
+    "./vitest-ts": "./configs/vitest-ts.js",
+    "./components": "./configs/components.js"
   },
   "files": [
     "index.js",
