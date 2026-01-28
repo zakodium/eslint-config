@@ -77,3 +77,4 @@ export default defineConfig(
 - `zakodium/tailwind`: Class rules for Tailwind CSS projects. Should only be used with Tailwind CSS v4.
 - `zakodium/vitest`: Same as [cheminfo/vitest](https://github.com/cheminfo/eslint-config/blob/main/configs/vitest.js).
 - `zakodium/vitest-ts`: Same as [cheminfo-typescript/vitest](https://github.com/cheminfo/eslint-config-cheminfo-typescript/blob/main/configs/vitest.js). Also includes `cheminfo/vitest`!
+- `zakodium/components`: Rules to disable the import of components outside the index.ts file
