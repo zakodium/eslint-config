@@ -69,7 +69,7 @@ export default defineConfig(
 ## Available configs
 
 - `zakodium/adonis-v5`: Adapts some rules for AdonisJS 5 projects. Should be combined with `zakodium/ts`.
-- `zakodium/components`: Rules to disable the import of components outside the index.ts file
+- `zakodium/components`: Rules for best practices with Zakodium's React [`components`](https://github.com/zakodium/components) library.
 - `zakodium/js`: Same as [cheminfo/base](https://github.com/cheminfo/eslint-config/blob/main/configs/base.js).
 - `zakodium/jsdoc`: Same as [cheminfo/jsdoc](https://github.com/cheminfo/eslint-config/blob/main/configs/jsdoc.js).
 - `zakodium/react`: Same as [cheminfo-react/base](https://github.com/cheminfo/eslint-config-cheminfo-react/blob/main/base.js)
