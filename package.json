@@ -6,6 +6,7 @@
   "exports": {
     ".": "./index.js",
     "./adonis-v5": "./configs/adonis-v5.js",
+    "./components": "./configs/components.js",
     "./js": "./configs/js.js",
     "./jsdoc": "./configs/jsdoc.js",
     "./react": "./configs/react.js",
