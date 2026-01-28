@@ -6,6 +6,7 @@
   "exports": {
     ".": "./index.js",
     "./adonis-v5": "./configs/adonis-v5.js",
+    "./components": "./configs/components.js",
     "./js": "./configs/js.js",
     "./jsdoc": "./configs/jsdoc.js",
     "./react": "./configs/react.js",
@@ -13,8 +14,7 @@
     "./ts": "./configs/ts.js",
     "./unicorn": "./configs/unicorn.js",
     "./vitest": "./configs/vitest.js",
-    "./vitest-ts": "./configs/vitest-ts.js",
-    "./components": "./configs/components.js"
+    "./vitest-ts": "./configs/vitest-ts.js"
   },
   "files": [
     "index.js",
