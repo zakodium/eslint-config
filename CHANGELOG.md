@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.2.0](https://github.com/zakodium/eslint-config/compare/v19.1.0...v19.2.0) (2026-01-28)
+
+
+### Features
+
+* add components config to eslint ([#56](https://github.com/zakodium/eslint-config/issues/56)) ([5f52f93](https://github.com/zakodium/eslint-config/commit/5f52f93a6b6dc4796a71cf8e98c37d478c821304))
+
 ## [19.1.0](https://github.com/zakodium/eslint-config/compare/v19.0.0...v19.1.0) (2026-01-20)
 
 
