@@ -1,5 +1,12 @@
 # Changelog
 
+## [20.1.0](https://github.com/zakodium/eslint-config/compare/v20.0.0...v20.1.0) (2026-06-11)
+
+
+### Features
+
+* update dependencies ([#61](https://github.com/zakodium/eslint-config/issues/61)) ([6784894](https://github.com/zakodium/eslint-config/commit/67848948367d95df3d3e325582003273efd943d2))
+
 ## [20.0.0](https://github.com/zakodium/eslint-config/compare/v19.1.0...v20.0.0) (2026-04-15)
 
 
