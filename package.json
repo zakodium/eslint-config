@@ -34,17 +34,17 @@
   },
   "homepage": "https://github.com/zakodium/eslint-config#readme",
   "dependencies": {
-    "eslint-config-cheminfo": "^18.0.0",
-    "eslint-config-cheminfo-react": "^20.0.0",
-    "eslint-config-cheminfo-typescript": "^22.0.0",
-    "eslint-plugin-better-tailwindcss": "^4.4.1",
-    "globals": "^17.5.0"
+    "eslint-config-cheminfo": "^18.1.0",
+    "eslint-config-cheminfo-react": "^20.1.0",
+    "eslint-config-cheminfo-typescript": "^22.1.0",
+    "eslint-plugin-better-tailwindcss": "^4.6.0",
+    "globals": "^17.6.0"
   },
   "peerDependencies": {
     "eslint": "^9.39.1"
   },
   "devDependencies": {
     "eslint": "9.39.1",
-    "prettier": "^3.8.3"
+    "prettier": "^3.8.4"
   }
 }
