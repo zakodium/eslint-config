@@ -1,5 +1,16 @@
 # Changelog
 
+## [21.0.0](https://github.com/zakodium/eslint-config/compare/v20.1.0...v21.0.0) (2026-09-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* update to ESLint v10 ([#63](https://github.com/zakodium/eslint-config/issues/63))
+
+### Features
+
+* update to ESLint v10 ([#63](https://github.com/zakodium/eslint-config/issues/63)) ([66d4cd3](https://github.com/zakodium/eslint-config/commit/66d4cd35561763fb498171a8520a0541df216c4d))
+
 ## [20.1.0](https://github.com/zakodium/eslint-config/compare/v20.0.0...v20.1.0) (2026-06-11)
 
 
